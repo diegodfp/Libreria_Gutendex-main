@@ -9,7 +9,8 @@ Para ejecutar este proyecto necesitas:
 
 - Java 11 o superior
 - Spring Framework
-- Una base de datos configurada (en este caso PostgreSQL.)
+- Una base de datos configurada (en este caso se realizo usando PostgreSQL.)
+- Configurar variables de entorno ${DB_HOST} - ${DB_USER} - ${DB_PASSWORD}
 
 
 ## Funcionalidad
